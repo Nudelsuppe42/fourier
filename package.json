@@ -2,7 +2,6 @@
   "name": "fourier",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nudelsuppe42.github.io/fourier",
   "dependencies": {
     "@mantine/charts": "^7.5.2",
     "@mantine/core": "^7.5.2",
