@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fourier/static/css/main.ee5c2095.css",
+    "main.js": "/fourier/static/js/main.68930680.js",
+    "index.html": "/fourier/index.html",
+    "main.ee5c2095.css.map": "/fourier/static/css/main.ee5c2095.css.map",
+    "main.68930680.js.map": "/fourier/static/js/main.68930680.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee5c2095.css",
+    "static/js/main.68930680.js"
+  ]
+}
